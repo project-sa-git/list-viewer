@@ -7,7 +7,9 @@ Android端末でデータをリスト形式で表示
 Android端末実機にて、リストビューアー形式の表示（非同期通信でなく、内部データの読み込みのみ）
 
 # インストール
+
 $ git clone https://github.com/project-sa-git/list-viewer.git
+
 $ cd list-viewer
 
 Android Studioにてpackageインストール後、デバイスにインストール
