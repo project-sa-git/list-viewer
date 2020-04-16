@@ -15,6 +15,7 @@ $ cd list-viewer
 Android Studioにてpackageインストール後、デバイスにインストール
 
 # ライセンス
-This project is licensed free.
 
-ご自由にご利用ください
+Please refrain from using without permission.
+
+許可なき利用はご遠慮ください。
